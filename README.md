@@ -1,2 +1,3 @@
 # Super-Market
 supermarket sales data using pandas, matplotlib, and seaborn. Includes data cleaning, EDA, and total sales calculations for business insights.
+This project is a data analysis of a supermarket sales dataset using Python. It begins by importing essential libraries such as pandas, NumPy, matplotlib, and seaborn for data manipulation and visualization. The dataset, loaded from a CSV file, contains detailed transaction records including unit prices, quantities, and tax values. The analysis involves computing total sales amounts and exploring customer purchasing patterns. Visualizations are used to uncover trends and insights in the data, making this notebook a practical example of real-world exploratory data analysis (EDA) in the retail domain.
